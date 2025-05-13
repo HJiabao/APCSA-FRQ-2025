@@ -15,7 +15,7 @@ public class SignedText{
     int index= text.indexOf(sign);
     if(index==0){
       return text.substring(sign.length())+sign;
-    }else if(index == (text.length()-sign.length())+1){
+    }else if(index == (text.length()-sign.length())){
       return text;
     }else{
       return text+sign;
