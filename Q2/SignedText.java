@@ -11,6 +11,14 @@ public class SignedText{
     return first.substring(0,1)+"-"+last;
   }
   public String addSignature(String text){
-    
+    String sign= getSignature();
+    int index= text.indexOf(sign);
+    if(index==0){
+      return text.substring(sign.length())+sign;
+    }else if(index == (text.length()-sign.length())+1){
+      return text;
+    }else{
+      return text+sign;
+    }
   }
 }
