@@ -4,7 +4,7 @@
 This section contains my analysis of Question 2 (Class Design):
 
 #### My initial approach during the exam:
-- Ideas here
+- 
   
 #### My revised solution after review:
 - No Changes
