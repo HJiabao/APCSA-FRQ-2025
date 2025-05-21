@@ -4,13 +4,14 @@
 This section contains my analysis of Question 2 (Class Design):
 
 #### My initial approach during the exam:
-- 
+- Follow the instrucations and requirements
   
 #### My revised solution after review:
-- No Changes
+- No changes
   
 #### Key concepts tested in this question:
-- Ideas here
+- Knowing how to create a class
+- Testing your If statement logic
   
 #### What I learned from revisiting this problem:
-- Ideas here
+- Made sure it was correct
