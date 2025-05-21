@@ -11,8 +11,7 @@ This section contains my analysis of Question 3 (Arrays and ArrayLists):
   
 #### Key concepts tested in this question:
 - Using Loops
-- Knowing how to initialize ArrayList
-- 
+- Knowing how to creat and initialize ArrayList
   
 #### What I learned from revisiting this problem:
-- Ideas here
+- I still need to work on my looping skills
